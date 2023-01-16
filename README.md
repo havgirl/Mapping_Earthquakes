@@ -1,13 +1,13 @@
 # Mapping_Earthquakes
 
 ## Objective
-The objective of this challenge is to create a map using different mapbox layers and an earthquake overlay
+The objective of this challenge is to create a map using different mapbox layers and earthquake overlays.
 
 ### Mapbox
-Three mapbox tile layers will be created and utilized in this challenge, and include the following styles:
-- A street view: mapbox/streets-v11
-- A satellite streets view: mapbox/satellite-streets-v11
-- A dark view: mapbox/dark-v11
+Three mapbox tile layers will be created and utilized in this challenge, and include the following views:
+- Street: mapbox/streets-v11
+- Satellite street: mapbox/satellite-streets-v11
+- Dark mode: mapbox/dark-v11
 
 ### Overlays
 Additionally, there will be three overlays that will be enabled, and include the following objects:
